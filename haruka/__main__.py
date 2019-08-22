@@ -29,10 +29,10 @@ I'm world manager bot maintained by [this awesome person](https://t.me/shivamkch
 
 Click Help button to find out more about how to use me to my full potential.
 
-Special Thanks to @Prakaska sar
+Special Thanks to @Prakasksgshshshshsba sar
 
 My Souce Available Here [Source](https://github.com/shivamkchoudhary/HarukaAya)
-
+I
 Want to add me to your group? [Click here!](t.me/ThaNos_TheBot?startgroup=true)
 
 Earth. That is my price.!"""
