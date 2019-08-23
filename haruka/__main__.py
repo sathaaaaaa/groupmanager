@@ -20,23 +20,23 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hello {}, my name is *{}*!
 
 This Is Bot Specially Designed To Help TeleGram Groups And Helps Person In Jobs They Are Doing !!
 
-I'm Telegram Group manager bot created  by [This Awesome Guy](https://t.me/CaptainCrazy)!
+*I'm Telegram Group manager bot created  by* [This Awesome Guy](https://t.me/CaptainCrazy)!
 
 Click Help button [Displayed Below](https://t.me/GroupManager_TheBot) to find out "What This Bot Can Do ..
 
-*Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)*
+*Special Thanks to* [Crazy Captain](https://t.me/CaptainCrazy) *(Owner - Bot)*
 
-"Want Any Type Of HELP" [Join Our Support Team](https://t.me/GroupManager_Support)
+*"Want Any Type Of HELP"* [Join Our Support Team](https://t.me/GroupManager_Support)
 
 Want to add me to your group? [Click here!](t.me/GroupManager_TheBot?startgroup=true)
 
 Enjoy Features Of The Bot By Clickig Help Button Below
 
-This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System...."""
+*This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System....*"""
 
 
 IMPORTED = {}
