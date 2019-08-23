@@ -25,11 +25,10 @@ from haruka.modules.translations.strings import tld
 
 from haruka.modules.connection import connected
 
-# Hello bot owner, I spended for feds many hours of my life, Please don't remove this if you still respect MrYacha and peaktogoo
-# Federation by MrYacha 2018-2019
-# Federation rework in process by Mizukito Akito 2019
-# Time spended on feds = 10h by #MrYacha
-# Time spended on reworking on the whole feds = 20+ hours by @peaktogoo
+# Hello Respected Owners of This Bot , Bot Created By @CaptainCrazy 
+# Federation system introduces
+# Time spended on feds = 10h by #CaptainCrazy
+
 
 LOGGER.info("Original federation module by MrYacha, reworked by Mizukito Akito (@peaktogoo) on Telegram.")
 
@@ -701,7 +700,7 @@ __help__ = """
 Ah, group management. It's all fun and games, until you start getting spammers in, and you need to ban them. Then you need to start banning more, and more, and it gets painful.
 But then you have multiple groups, and you don't want these spammers in any of your groups - how can you deal? Do you have to ban them manually, in all your groups?
 
-Inspired by [Rose bot](t.me/MissRose_bot)
+Inspired by [Group Manager Bot](t.me/Captaincrazy)
 
 No more! With federations, you can make a ban in one chat overlap to all your other chats.
 You can even appoint federation admins, so that your trustworthy admins can ban across all the chats that you want to protect.
@@ -721,7 +720,7 @@ Commands:
  - /chatfed: Show the federation the chat is in
  - /fedadmins: Show the federation admins
 
-Federations originally by @MrYacha, 75% Reworked by @peaktogoo
+Federations originally by @CaptainCrazy
 """
 
 NEW_FED_HANDLER = CommandHandler("newfed", new_fed)
