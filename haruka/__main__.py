@@ -22,20 +22,21 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
-Destiny still arrives. Or should I say, I have.
+This Is Bot Specially Designed To Help TeleGram Groups And Helps Person In Jobs They Are Doing !!
 
-I'm world manager bot maintained by [this awesome person](https://t.me/shivamkchoudhary)!
+I'm Telegram Group manager bot created  by [This Awesome Guy](https://t.me/CaptainCrazy)!
 
-Click Help button to find out more about how to use me to my full potential.
+Click Help button (Displayed Below)[https://t.me/GroupManager_TheBot] to find out "What This Bot Can Do ..
 
-Special Thanks to @Prakasksgshshshshsba sar
+Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)
 
-My Souce Available Here [Source](https://github.com/shivamkchoudhary/HarukaAya)
-I
-Want to add me to your group? [Click here!](t.me/ThaNos_TheBot?startgroup=true)
+"Want Any Type Of HELP" [Join Our Support Team](https://t.me/GroupManager_Support)
 
-Earth. That is my price.!"""
+Want to add me to your group? [Click here!](t.me/GroupManager_TheBot?startgroup=true)
+
+Enjoy Features Of The Bot By Clickig Help Button Below
+
+This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System...."""
 
 
 IMPORTED = {}
@@ -132,7 +133,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("The end is near. 😈")
+        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your Group/Community. [Join Support Group For Some HELP](https://t.me/GroupManager_Support ")
 
 
 def send_start(bot, update):
