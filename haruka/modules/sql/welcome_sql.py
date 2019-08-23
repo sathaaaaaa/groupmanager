@@ -6,7 +6,7 @@ from sqlalchemy import Column, String, Boolean, UnicodeText, Integer, BigInteger
 from haruka.modules.helper_funcs.msg_types import Types
 from haruka.modules.sql import SESSION, BASE
 
-DEFAULT_WELCOME = "Hey {mention},How Are You ?🙄? It's Our Pleasure To Have You as Respected Member In This {chatname}"
+DEFAULT_WELCOME = "Hey {first} ,How Are You ?? It's Our Pleasure To Have You as Respected Member In This {chatname} "
 DEFAULT_GOODBYE = "Bye Bye 😭 , We Hope You will come Back One Day... 😏"
 
 
