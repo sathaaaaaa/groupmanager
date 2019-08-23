@@ -225,7 +225,6 @@ Main commands available:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
    {}
-Join Our Support Group - @GroupManager_Support
    """,
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
