@@ -150,7 +150,7 @@ def send_start(bot, update):
 
 
     keyboard = [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
-    keyboard = [InlineKeyboardButton(text="🧐 Support Team", url=f"t.me/GroupManager_Support")]]
+    keyboard = [InlineKeyboardButton(text="🧐 Support Team", url="t.me/GroupManager_Support")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
     
