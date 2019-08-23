@@ -133,7 +133,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Hi!! I Am Alive :} - @GroupManager_TheBot")
+        update.effective_message.reply_text("Hi!! I Am Alive :} \n @GroupManager_TheBot")
 
 
 def send_start(bot, update):
