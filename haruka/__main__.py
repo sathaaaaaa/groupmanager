@@ -133,7 +133,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your {chatname} . Want Any Help Regarding Bot, Join @GroupManager_Support")
+        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your Group/Community . Want Any Help Regarding Bot, [Join Our Support Group](buttonurl://t.me/groupManager_Support)")
 
 
 def send_start(bot, update):
