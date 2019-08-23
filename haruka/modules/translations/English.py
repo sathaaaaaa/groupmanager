@@ -206,15 +206,17 @@ I'm a group manager bot maintained by [this person](tg://user?id={876854495}). I
 
 """,
 
-    "send-help": """Hey there! My name is *{}*.
+    "send-help": """Hi *{}*! My name is *{}*!! 😁
 
-*I am Group Manager Bot Designer By @CaptainCrazy To Help creators/admins manage Their Groups With Ease..*
+*I am Group Manager Bot Designed 😎 By @CaptainCrazy To Help creators/admins manage Their Groups With Ease..*
 
-*Main commands available*:
+*Add This Bot To Your Groups To Manage Your Groups*
+
+*Click on */start *If u To Restart This Bot And See Control panel*
+
+*Join Our Support Group 🤯*- @GroupManager_Support 
 
 *All The Commands Re Mentioned Below 👇 , Just Click On Any Command...*
-
-Or *Click on */start *To Restart This Bot*
 
    """,
 
