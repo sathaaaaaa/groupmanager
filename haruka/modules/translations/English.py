@@ -213,10 +213,9 @@ I'm a group manager bot maintained by [this person](tg://user?id={876854495}). I
 *Add This Bot To Your Groups To Manage Your Groups*
 
 *Click on */start *If u To Restart This Bot And See Control panel*
+ 
 
-*Join Our Support Group *- @GroupManager_Support 
-
-*All The Commands Re Mentioned Below 👇 , Just Click On Any Command...*
+*All The Commands Are Mentioned Below 👇 , Just Click On Any Command...*
 
    """,
 
