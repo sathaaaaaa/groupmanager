@@ -216,8 +216,6 @@ I'm a group manager bot maintained by [this person](tg://user?id={876854495}). I
 
 Or *Click on */start *To Restart This Bot*
 
-*Our Official Support Group* - @GroupManager_Support 
-   {}
    """,
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
