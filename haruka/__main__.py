@@ -133,7 +133,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your Group/Community . Want Any Help Regarding Bot, [Join Our Support Group](buttonurl://t.me/groupManager_Support)")
+        update.effective_message.reply_text("Hi!! I Am Alive :} - @GroupManager_TheBot")
 
 
 def send_start(bot, update):
@@ -182,7 +182,7 @@ def control_panel(bot, update):
 
         LOGGER.info(query.data)
     else:
-        M_match = "ThaNos is the best bot" #LMAO, don't uncomment
+        M_match = "Group Manager is the best Telegram Super bot" #LMAO, don't uncomment
 
     if M_match:
         text = "*Control panel* 🛠"
