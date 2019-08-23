@@ -81,7 +81,7 @@ def can_promote(func):
             return func(bot, update, *args, **kwargs)
         else:
             update.effective_message.reply_text("I can't promote/demote people here! "
-                                                "Make sure I'm admin and can appoint new admins.")
+                                                "Make me Admin Here Sir , I will Like to Appoint More Admins ,Please Give me Admin Rights .")
 
     return promote_rights
 
@@ -93,7 +93,7 @@ def can_restrict(func):
             return func(bot, update, *args, **kwargs)
         else:
             update.effective_message.reply_text("I can't restrict people here! "
-                                                "Make sure I'm admin and can appoint new admins.")
+                                                "Admins ;; Please Make me admin , So that i can restrict people who are scamming in this precious group.")
 
     return promote_rights
 
@@ -124,7 +124,7 @@ def user_admin(func):
             update.effective_message.delete()
 
         elif (admin_sql.command_reaction(chat.id) == True):
-            update.effective_message.reply_text("Who dis non-admin telling me what to do?")
+            update.effective_message.reply_text("First Become Admin And Then Give Me Instruction - What To Do?")
 
     return is_admin
 
