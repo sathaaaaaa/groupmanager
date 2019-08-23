@@ -214,8 +214,7 @@ If you enjoying using me and/or would like to help me survive in the wild, hit /
 """,
 
     "send-help": """Hey there! My name is *{}*.
-This Is The Special Telegram Group Management Bot With Many Extra Features and Some Special Commands and Modules , Made By @CaptainCrazy ...!!
-For Help /Support - @GroupManager_Support  """
+I am Group Manager Bot Designer By @CaptainCrazy To Help creators/admins manage Their Groups With Ease..  
 
 Main commands available:
  - /start: Cool command to check if the bot is alive or not
