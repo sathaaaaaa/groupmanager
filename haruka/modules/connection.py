@@ -33,11 +33,11 @@ def allow_connections(bot: Bot, update: Update, args: List[str]) -> str:
                 sql.set_allow_connect_to_chat(chat.id, True)
                 update.effective_message.reply_text(tld(chat.id, "Enabled connections to this chat for users"))
             else:
-                update.effective_message.reply_text(tld(chat.id, "Please enter on/yes/off/no in group!"))
+                update.effective_message.reply_text(tld(chat.id, "Please enter yes/no in group!"))
         else:
-            update.effective_message.reply_text(tld(chat.id, "Please enter on/yes/off/no in group!"))
+            update.effective_message.reply_text(tld(chat.id, "Please enter yes/no in group!"))
     else:
-        update.effective_message.reply_text(tld(chat.id, "Please enter on/yes/off/no in group!"))
+        update.effective_message.reply_text(tld(chat.id, "Please enter yes/no in group!"))
 
 
 @run_async
@@ -183,9 +183,9 @@ Actions are available with connected groups:
  • Restrict/unrestrict users in chat
  • More in future!
 
- - /connection <chatid>: Connect to remote chat
+ - /connect <chatid>: Connect to remote chat
  - /disconnect: Disconnect from chat
- - /allowconnect on/yes/off/no: Allow connect users to group
+ - /allowconnect yes/no: Allow connect users to group
 
  You can retrieve the chat id by using the /id command in your chat. Don't be surprised if the id is negative; all super groups have negative ids.
 """
