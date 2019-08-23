@@ -198,39 +198,34 @@ If you want multiple buttons on the same line, use :same, as such:
 This will create two buttons on a single line, instead of one button per line.
 """
 
+
 EnglishStrings = {
-    "send-start": """Hello {}, my name is {}!
+    "send-start": """Hi {}, my name {}! If you have any questions on how to use me, read /help - and then head to @YanaBotGroup.
 
-This Is Bot Specially Designed To Help TeleGram Groups And Helps Person In Jobs They Are Doing !!
+I'm a group manager bot maintained by [this person](tg://user?id={654839744}). I'm a [Marie](https://github.com/PaulSonOfLars/tgbot) fork.
+I'm built in python3, using the \
+python-telegram-bot library, and am fully opensource - you can find what makes me tick\
+[here](https://github.com/peaktogoo/HarukaAya))!
 
-I'm Telegram Group manager bot created  by [This Awesome Guy](https://t.me/CaptainCrazy)!
+Feel free to submit pull requests on github, or to contact my support group, @EchelonTeam, with any bugs, questions \
+or feature requests you might have :)
 
-Click Help button [Displayed Below](https://t.me/GroupManager_TheBot) to find out "What This Bot Can Do ..
-
-Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)
-
-"Want Any Type Of HELP" [Join Our Support Team](https://t.me/GroupManager_Support)
-
-Want to add me to your group? [Click here!](t.me/GroupManager_TheBot?startgroup=true)
-
-Enjoy Features Of The Bot By Clickig Help Button Below
-
-This Bot Has Many Special Features Created Just For Your Groups With Extra Features and Support System....""",
+If you enjoying using me and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
+""",
 
     "send-help": """Hey there! My name is *{}*.
+I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
-I am Special Telegram Modular Bot Made By Crazy Captain with more Features And Commands..
-How Can I Help You , Select Any Settings Below 👇. """
-Main commands/settings available:
+Main commands available:
  - /start: Cool command to check if the bot is alive or not
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
+ - /donate: information about how to donate!
  - /lang: Change bot language
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
-Want Help or Report Bug - Contact Support @GroupManager_Support
-{}
+   {}
    """,
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
