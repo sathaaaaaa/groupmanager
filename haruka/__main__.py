@@ -28,7 +28,7 @@ I'm Telegram Group manager bot created  by [This Awesome Guy](https://t.me/Capta
 
 Click Help button [Displayed Below](https://t.me/GroupManager_TheBot) to find out "What This Bot Can Do ..
 
-Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)
+*Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)*
 
 "Want Any Type Of HELP" [Join Our Support Team](https://t.me/GroupManager_Support)
 
