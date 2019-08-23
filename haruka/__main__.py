@@ -26,7 +26,7 @@ This Is Bot Specially Designed To Help TeleGram Groups And Helps Person In Jobs 
 
 I'm Telegram Group manager bot created  by [This Awesome Guy](https://t.me/CaptainCrazy)!
 
-Click Help button (Displayed Below)[https://t.me/GroupManager_TheBot] to find out "What This Bot Can Do ..
+Click Help button [Displayed Below](https://t.me/GroupManager_TheBot) to find out "What This Bot Can Do ..
 
 Special Thanks to [Crazy Captain](https://t.me/CaptainCrazy) (Owner - Bot)
 
@@ -133,7 +133,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your Group/Community. [Join Support Group For Some HELP](https://t.me/GroupManager_Support ")
+        update.effective_message.reply_text("Thanks For Adding @GroupManager_TheBot To Your Group/Community. [Join Support Group For Some HELP](buttonurl://https://t.me/GroupManager_Support ")
 
 
 def send_start(bot, update):
