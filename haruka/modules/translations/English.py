@@ -210,14 +210,13 @@ I'm a group manager bot maintained by [this person](tg://user?id={876854495}). I
 
 *I am Group Manager Bot Designer By @CaptainCrazy To Help creators/admins manage Their Groups With Ease..*
 
-Main commands available:
- - /start: Cool command to check if the bot is alive or not
- - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
- - /lang: Change bot language
- - /settings:
-   - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
+*Main commands available*:
+
+*All The Commands Re Mentioned Below 👇 , Just Click On Any Command...*
+
+Or *Click on */start *To Restart This Bot*
+
+*Our Official Support Group* - @GroupManager_Support 
    {}
    """,
 
