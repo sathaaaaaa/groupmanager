@@ -219,7 +219,7 @@ This Bot Has Many Special Features Created Just For Your Groups With Extra Featu
 
     "send-help": """Hey there! My name is *{}*.
 
-I am Special Telegram Modular Bot Made By [Crazy Captain](https://t.me/CaptainCrazy) with more Features And Commands..
+I am Special Telegram Modular Bot Made By Crazy Captain with more Features And Commands..
 How Can I Help You , Select Any Settings Below 👇. """
 Main commands/settings available:
  - /start: Cool command to check if the bot is alive or not
@@ -229,8 +229,8 @@ Main commands/settings available:
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
-   {}
-Want Help or Report Bug - [Contact Support Team](https://t.me/GroupManager_Support)
+Want Help or Report Bug - Contact Support @GroupManager_Support
+{}
    """,
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
