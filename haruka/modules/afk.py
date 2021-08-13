@@ -40,7 +40,7 @@ def no_longer_afk(bot: Bot, update: Update):
     res = sql.rm_afk(user.id)
     if res:
         firstname = update.effective_user.first_name
-        update.effective_message.reply_text(tld(chat.id, f"{firstname} is no longer AFK!"))
+        update.effective_message.reply_text(tld(chat.id, f"{firstname} is no longer fucking AFK!"))
 
 
 @run_async
